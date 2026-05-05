@@ -6,7 +6,7 @@
     <a href="#">
       <img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg"/>
     </a>
-    <a href="#">
+    <a href="#"> 
       <img alt="Vue.js" src="https://img.shields.io/badge/vue.js-3.x-brightgreen.svg"/>
     </a>
     <a href="#">
